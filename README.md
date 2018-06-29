@@ -11,15 +11,14 @@ expliquer ce qui se passer chargement page web
 
 ### Explain me the idea of index. MySQL case?
 
+### What is the User space? What is its purpose?
+
 ## Algo questions
 
 ### Linked lists intersection
 
 ### What is a hashtable?
 
-
-javascript
-qu'est ce qu'une closure ?
 
 # Product
 
@@ -29,5 +28,9 @@ qu'est ce qu'une closure ?
 
 ### What are you looking for when talking to users?
 
+### Tell me about a failed product ytou launched.
 
-# Business developper
+# Business developper/Strategy
+
+### Explain me the economics of your industry.
+
