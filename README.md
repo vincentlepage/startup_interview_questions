@@ -19,6 +19,13 @@ expliquer ce qui se passer chargement page web
 
 ### What is a hashtable?
 
+# sysadmin
+
+### explain Spectre or Meltdown exploit
+
+### What is user space?
+
+### What is virtualization?
 
 # Product
 
