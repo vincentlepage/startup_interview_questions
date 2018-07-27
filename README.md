@@ -7,11 +7,13 @@ expliquer ce qui se passer chargement page web
 
 ### TCP vs IP
 
+### Can you list some classic DOS attack on TCP or IP?
+
+### What is IP Spoofing? Syn flood?
+
 ### What is UDP?
 
 ### Explain me the idea of index. MySQL case?
-
-### What is the User space? What is its purpose?
 
 ## Algo questions
 
@@ -40,4 +42,6 @@ expliquer ce qui se passer chargement page web
 # Business developper/Strategy
 
 ### Explain me the economics of your industry.
+
+### Do you sell on fear or on greed?
 
