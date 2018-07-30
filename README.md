@@ -45,3 +45,17 @@ expliquer ce qui se passer chargement page web
 
 ### Do you sell on fear or on greed?
 
+# Manager
+
+### How do you communicate bad news?
+### How have you handled disgruntled employees?
+### What are some examples of times you’ve kept your promise even when that might have been difficult?
+
+
+### What is your delegation style?
+### How easily do you delegate responsibility?
+### How do you monitor and review the delegated responsibilities?
+
+### How do you ensure that your project is always on track?
+### What tools do you use as a manager to plan your activities as well as that of your team?
+
