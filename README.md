@@ -3,7 +3,10 @@
 # Tech/Dev
 
 ## Network:
-expliquer ce qui se passer chargement page web
+
+### Tell me what happens when I open my browser and go to "http://www.google.com"
+
+### What is the DNS ? What is an A record, an NS record, a PTR record, a CNAME record, an MX record?
 
 ### TCP vs IP
 
@@ -13,9 +16,10 @@ expliquer ce qui se passer chargement page web
 
 ### What is UDP?
 
-### Explain me the idea of index. MySQL case?
 
 ## Algo questions
+
+### Explain me the idea of index. MySQL case?
 
 ### Linked lists intersection
 
@@ -28,6 +32,10 @@ expliquer ce qui se passer chargement page web
 ### What is user space?
 
 ### What is virtualization?
+
+### What does chmod +x FILENAME do?
+
+### Do you like sed?
 
 # Product
 
