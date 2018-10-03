@@ -25,6 +25,13 @@
 
 ### What is a hashtable?
 
+## Programming
+
+### What is functionnal programming?
+
+### What are your favorite languages? Why? Can you tell the difference between them?
+
+
 # sysadmin
 
 ### explain Spectre or Meltdown exploit
