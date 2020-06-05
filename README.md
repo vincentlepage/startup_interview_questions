@@ -47,6 +47,14 @@
 
 ### Do you like sed?
 
+# Datascientist
+
+### Explain k-fold cross validation
+
+### What is hard about ML ops ?
+
+### Why are ML papers so hard to repoduce ?
+
 # Product
 
 ### Tell me about your product dev methodology
