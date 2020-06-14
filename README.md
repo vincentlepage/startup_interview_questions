@@ -34,6 +34,10 @@
 
 ### What are your favorite languages? Why? Can you tell the difference between them?
 
+### thread vs process?
+
+### explain async programming
+
 
 # sysadmin
 
