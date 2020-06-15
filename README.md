@@ -38,8 +38,18 @@
 
 ### explain async programming
 
+## Python
 
-# sysadmin
+### What is the most important limitation of Python in terms of perf?
+
+### What is a Dict ? How is it implemented ? Can you explain this data structure?
+
+### Python typing?
+
+
+# Sysadmin
+
+### A process keeps crashing. What do you do?
 
 ### explain Spectre or Meltdown exploit
 
